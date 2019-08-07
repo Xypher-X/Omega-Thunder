@@ -11,7 +11,7 @@
 |             Program_Immediate_Key_Handler               
 |
 | (C) Copyright 2017 Abonvita Software LLC.
-| Edited by David Sta Cruz
+| Edited by: David Sta Cruz
 | Licensed under the GX Toolkit License, Version 1.0.
 |___________________________________________________________________*/
 
