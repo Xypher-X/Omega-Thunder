@@ -1,6 +1,6 @@
 /*____________________________________________________________________
 |
-| File: main.c
+| File: main.cpp
 |
 | Functions:  Program_Get_User_Preferences
 |             Program_Init
