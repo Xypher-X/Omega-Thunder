@@ -1,6 +1,6 @@
 /***************************************************************
 *
-* File: title_screen.h
+* File: render.cpp
 *
 * Author: David Sta Cruz
 *
